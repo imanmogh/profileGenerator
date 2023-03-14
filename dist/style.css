@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    height: 10vh;
+    margin: 0%;
+}
+
+.navbar {
+    background-color: red;
+}
+
+
+.card-body {
+    background-color: aqua;
+}
