@@ -7,10 +7,12 @@ A Node.js command-line application that takes in information about employees on 
 Run node index in the command line
 
 ## Usage
-![Alt text](/assets/screen-recording.mov)
+![Alt text](https://drive.google.com/file/d/10qykVh-7ZkeVRXMGkci2Qt0GXOfN2K3h/view)
 
 ## Credits
 https://github.com/imanmogh/profileGenerator
+https://drive.google.com/file/d/10qykVh-7ZkeVRXMGkci2Qt0GXOfN2K3h/view
+
 
 ## License
 M/A
